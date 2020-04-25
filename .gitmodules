@@ -1,3 +1,9 @@
 [submodule "themes/hugo.386"]
 	path = themes/hugo.386
 	url = https://gitlab.com/maxlefou/hugo.386
+[submodule "themes/edidor"]
+	path = themes/edidor
+	url = https://github.com/jacobsun/edidor
+[submodule "themes/min_night"]
+	path = themes/min_night
+	url = https://github.com/nathancday/min_night.git
